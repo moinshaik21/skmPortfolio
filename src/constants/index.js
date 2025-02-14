@@ -62,7 +62,6 @@ const services = [
 ];
 
 const technologies = [
-  {},
   {
     name: "JavaScript",
     icon: javascript,
