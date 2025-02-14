@@ -1,2 +1,2 @@
-## 🚀 My Netlify Dashboard
-([skm portfolio][https://skmtechspace.netlify.app/])
+## 🚀 My Portfolio
+[https://skmtechspace.netlify.app/])
