@@ -61,62 +61,6 @@ const services = [
   },
 ];
 
-const technologies = [
-  {
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "React JS",
-    icon: reactjs,
-  },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
-  // {
-  //   name: "Tailwind CSS",
-  //   icon: tailwind,
-  // },
-  {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  // {
-  //   name: "MongoDB",
-  //   icon: mongodb,
-  // },
-  // {
-  //   name: "Three JS",
-  //   icon: threejs,
-  // },
-  {
-    name: "git",
-    icon: git,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
-    name: "HTML 5",
-    icon: html,
-  },
-
-  // {
-  //   name: "figma",
-  //   icon: figma,
-  // },
-  // {
-  //   name: "docker",
-  //   icon: docker,
-  // },
-];
-
 const experiences = [
   {
     title: "React.js Developer",
@@ -263,6 +207,62 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/",
   },
+];
+
+const technologies = [
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
+  {
+    name: "React JS",
+    icon: reactjs,
+  },
+  // {
+  //   name: "Redux Toolkit",
+  //   icon: redux,
+  // },
+  // {
+  //   name: "Tailwind CSS",
+  //   icon: tailwind,
+  // },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  // {
+  //   name: "MongoDB",
+  //   icon: mongodb,
+  // },
+  // {
+  //   name: "Three JS",
+  //   icon: threejs,
+  // },
+  {
+    name: "git",
+    icon: git,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+    name: "HTML 5",
+    icon: html,
+  },
+
+  // {
+  //   name: "figma",
+  //   icon: figma,
+  // },
+  // {
+  //   name: "docker",
+  //   icon: docker,
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
